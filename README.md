@@ -1,6 +1,5 @@
-## HCL-DTI
-HCL-DTI:Hybrid contrastive learning for drug-target interaction prediction.
-![image](https://github.com/xiiiz/HCL-DTI/assets/105473770/9ceb33a7-c057-4c49-a1b0-256a650ce7f3)
+![image](https://github.com/xiiiz/HCL-DTI/assets/105473770/147c034c-e933-49c8-a606-3b6a988a5808)## HCL-DTI
+HCL-DTI:Hybrid contrastive learning for drug-target interaction prediction.![image](https://github.com/xiiiz/HCL-DTI/assets/105473770/7fcbb4c4-d5f7-4cc7-a005-a82a6c7dc3ed)
 
 
 ## Requirements
