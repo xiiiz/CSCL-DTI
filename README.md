@@ -1,6 +1,5 @@
 ## HCL-DTI
-an end-to-end deep learning-based method named HCL-DTI is developed to predict DTIs based on a hybrid contrastive learning method.
-
+HCL-DTI:Hybrid contrastive learning for drug-target interaction prediction
 ## Requirements
 python == 3.7
 numpy==1.21.6
