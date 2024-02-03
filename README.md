@@ -18,8 +18,12 @@ torch==1.13.1
 transformers==3.4.0
 
 
-## Using
-1. model.py: the construction of the neural network
-2. data_preprocess: Process the data to get the input of the model
-3. main.py: start file for model training
+## File description
+data_preprocess: Process the data to get the input of the model
+main.py: start file for model training
+model.py: the construction of the neural network
+
+
+## Usage
+python main.py
 
