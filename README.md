@@ -2,6 +2,7 @@
 HCL-DTI:Hybrid contrastive learning for drug-target interaction prediction
 ## Requirements
 python == 3.7
+
 numpy==1.21.6
 pandas==1.1.4
 rdkit==2023.3.2
