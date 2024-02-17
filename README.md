@@ -1,6 +1,6 @@
-## HCL-DTI
+## CSCL-DTI
 
-##### HCL-DTI:Hybrid contrastive learning for drug-target interaction prediction.
+##### CSCL-DTI:predicting drug-target interaction through cross-view and self-supervised contrastive learning.
 
 ###### ![HCL-DTI](https://github.com/xiiiz/HCL-DTI/assets/105473770/79776a68-9e1c-4b0c-bbc3-7a8ea358f15c)
 
