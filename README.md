@@ -1,7 +1,16 @@
-## CSCL-DTI
-
+# CSCL-DTI
 ##### CSCL-DTI:predicting drug-target interaction through cross-view and self-supervised contrastive learning.
+  - [Overview](#overview)
+  - [Installation](#installation)
+  - [Dependencies](#dependencies)
+  - [Quick Example](#quick-example)
+  - [Other usages](#other-usages)
+  - [Description of data files](#description-of-data-files)
+  - [Citation](#citation)
+  - [Contact](#contact)
 
+## Overview
+CSCL-DTI employs dual contrastive learning strategies to represent drugs and targets for DTI prediction.
 ###### ![HCL-DTI](https://github.com/xiiiz/HCL-DTI/assets/105473770/79776a68-9e1c-4b0c-bbc3-7a8ea358f15c)
 
 ## Requirements
