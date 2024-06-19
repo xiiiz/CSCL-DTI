@@ -31,8 +31,8 @@ Running the above lines of `conda install` should be sufficient to install all  
     ...     ...     ...   
     ```
     where `drug` is the Simplified Molecular Input Line-Entry System (SMILES) sequence of the drug, `target` is the protein amino acids sequence, `label` is the drug target interaction.
-2. `data/human.txt` is the Human dataset of drug-target interaction. The content in this file is similar to the content in `data/gpcr-train.txt/`.
-3. `data/drugbank-train.csv/` is the the DrugBank training dataset of drug-target interaction. `data/drugbank-test.txt/` is the DrugBank testing dataset of drug-target interaction. The content in this file is similar to the content in `data/gpcr-train.txt/`, except that the target is in the first column and the drug is in the second column.
+2. `data/human.txt` is the Human dataset of drug-target interaction. The contents in this file is similar to the contents in `data/gpcr-train.txt/`.
+3. `data/drugbank-train.csv/` is the the DrugBank training dataset of drug-target interaction. `data/drugbank-test.txt/` is the DrugBank testing dataset of drug-target interaction. The contents in this file is similar to the contents in `data/gpcr-train.txt/`, except that the target is in the first column and the drug is in the second column.
 
 ## Usage
 
