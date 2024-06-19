@@ -4,8 +4,7 @@
   - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Description of data files](#description-of-data-files)
-  - [Citation](#citation)
-  - [Contact](#contact)
+  - [Usage](#Usage)
 
 ## Overview
 CSCL-DTI employs a hybrid contrastive learning architecture to enhance representation learning for predicting DTI.
@@ -25,15 +24,15 @@ conda activate CSCL-DTI
 Running the above lines of `conda install` should be sufficient to install all  CSCL-DTI's required packages (and their dependencies). Specific versions of the packages we tested were listed in `requirements.txt`.
 
 ## Description of data files
-1. `data/GPCR-train.txt` is the the GPCR training dataset of drug-target interaction. `data/GPCR-test.txt` is the GPCR testing dataset of drug-target interaction.
+1. `data/gpcr-train.txt` is the the GPCR training dataset of drug-target interaction. `data/gpcr-test.txt` is the GPCR testing dataset of drug-target interaction.
     ```
     drug	                                                  target	label	   
     CC(=O)Nc1cc(Cl)cc2cc(C(=O)N3CCN(Cc4ccc(F)cc4)CC3C)oc12	METPNTTEDYDTTTEFDYGDATPCQKVNERAFGAQLLPPLYSLVFVIGLVGNILVVLVLVQYKRLKNMTSIYLLNLAISDLLFLFTLPFWIDYKLKDDWVFGDAMCKILSGFYYTGLYSEIFFIILLTIDRYLAIVHAVFALRARTVTFGVITSIIIWALAILASMPGLYFSKTQWEFTHHTCSLHFPHESLREWKLFQALKLNLFGLVLPLLVMIICYTGIIKILLRRPNEKKSKAVRLIFVIMIIFFLFWTPYNLTILISVFQDFLFTHECEQSRHLDLAVQVTEVIAYTHCCVNPVIYAFVGERFRKYLRQLFHRRVAVHLVKWLPFLSVDRLERVSSTSPSTGEHELSAGF 1
     ...     ...     ...   
     ```
     where `drug` is the Simplified MolecularInput Line-Entry System (SMILES) sequence of the drug, `target` is the protein amino acids sequence, `label` is the drug target interaction.
-2. `data/Human.txt` is the Human dataset of drug-target interaction. The content in this file is similar to the content in `data/GPCR-train.txt/`.
-3. `data/DrugBank-train.csv/` is the the DrugBank dataset of drug-target interaction. `data/DrugBank-test.txt/` is the DrugBank testing dataset of drug-target interaction. The content in this file is similar to the content in `data/GPCR-train.txt/`, except that the target is in the first column and the drug is in the second column.
+2. `data/human.txt` is the Human dataset of drug-target interaction. The content in this file is similar to the content in `data/gpcr-train.txt/`.
+3. `data/drugbank-train.csv/` is the the DrugBank dataset of drug-target interaction. `data/drugbank-test.txt/` is the DrugBank testing dataset of drug-target interaction. The content in this file is similar to the content in `data/gpcr-train.txt/`, except that the target is in the first column and the drug is in the second column.
 
 ## Usage
 
