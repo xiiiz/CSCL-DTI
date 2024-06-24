@@ -36,5 +36,10 @@ Running the above lines of `conda install` should be sufficient to install all  
 
 ## Usage
 
+```bash
+cd dataset
 python main.py
+```
+dataset specifically refers to gpcr, human and drugbank
+
 
