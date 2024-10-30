@@ -42,7 +42,7 @@ python main.py
 ```
 dataset specifically refers to gpcr, human and drugbank
 
-## Citation
+<h1>Citation</h1>
 
 If you use the code of DeepGS, please cite the paperbelow:
 
