@@ -42,19 +42,8 @@ python main.py
 ```
 dataset specifically refers to gpcr, human and drugbank
 
-<h1>Citation</h1>
 
-If you use the code of DeepGS, please cite the paperbelow:
-
-> @inproceedings{lin2024cscl-dti,
-  title={CSCL-DTI: predicting drug-target interaction through cross-view and self-supervised contrastive learning},
-  author={Lin, Xuan and Zhang, Xi and Yu, Zu-Guo and Long, Yahui and Zeng, Xiangxiang and Yu, Philip S},
-  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  year={2024},
-  organization={IEEE}
-}
-
-##Citation##
+##Citation
 
 If you use the code of CSCL-DTI, please cite the below:
 
