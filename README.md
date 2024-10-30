@@ -43,7 +43,7 @@ python main.py
 dataset specifically refers to gpcr, human and drugbank
 
 
-##Citation
+## Citation
 
 If you use the code of CSCL-DTI, please cite the below:
 
