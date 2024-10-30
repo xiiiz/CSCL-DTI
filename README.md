@@ -54,14 +54,13 @@ If you use the code of DeepGS, please cite the paperbelow:
   organization={IEEE}
 }
 
-<h1>Citation</h1>
+##Citation##
 
-If you use the code of DeepGS, please cite the below:
+If you use the code of CSCL-DTI, please cite the below:
 
-> @inproceedings{lin2020deepgs,  
-title ={DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction},  
-author ={Lin, Xuan and Zhao, Kaiqi and Xiao, Tong and Quan, Zhe and Wang, Zhi-Jie and Yu, Philip S},  
-booktitle ={24th European Conference on Artificial Intelligence (ECAI)},  
-pages ={1--8},  
-year ={2020}  
+> @inproceedings{lin2024cscl-dti,  
+title ={CSCL-DTI: predicting drug-target interaction through cross-view and self-supervised contrastive learning},  
+author ={Lin, Xuan and Zhang, Xi and Yu, Zu-Guo and Long, Yahui and Zeng, Xiangxiang and Yu, Philip S},  
+booktitle ={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},  
+year ={2024}  
 }
