@@ -15,8 +15,7 @@ CSCL-DTI employs a hybrid contrastive learning architecture to enhance represent
 git clone https://github.com/xiiiz/CSCL-DTI.git 
 cd CSCL-DTI
 ```
-## Dependencies
-This package is tested with Python 3.7 and CUDA 11.4 on Ubuntu 18.04.5, with access to an Nvidia A100 GPU (80GB RAM). Run the following to create a conda environment and install the required Python packages. 
+This package is tested with Python 3.7 and CUDA 11.4 on Ubuntu 18.04.5. 
 ```bash
 conda create -n CSCL-DTI python=3.7
 conda activate CSCL-DTI
