@@ -56,7 +56,7 @@ If you use the code of DeepGS, please cite the paperbelow:
 
 <h1>Citation</h1>
 
-If you use the code of DeepGS, please cite the [paper](http://ecai2020.eu/papers/34_paper.pdf) below:
+If you use the code of DeepGS, please cite the below:
 
 > @inproceedings{lin2020deepgs,  
 title ={DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction},  
