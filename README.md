@@ -17,13 +17,12 @@ We recommend to create a new environment.
 conda create -n CSCL-DTI python=3.7
 conda activate CSCL-DTI
 ```
-This package is tested with Python 3.7 and CUDA 11.4 on Ubuntu 18.04.5. 
+DeepGS is implemented based on [Pytorch](https://pytorch.org/), [RDKit](http://www.rdkit.org/docs/Install.html#how-to-install-rdkit-with-conda).
 ```bash
 git clone https://github.com/xiiiz/CSCL-DTI.git 
 cd CSCL-DTI
 pip install -r requirements.txt
 ```
-Running the above lines of `conda install` should be sufficient to install all  CSCL-DTI's required packages (and their dependencies). Specific versions of the packages we tested were listed in `requirements.txt`.
 
 ## Description of data files
 1. `data/gpcr-train.txt` is the the GPCR training dataset of drug-target interaction. `data/gpcr-test.txt` is the GPCR testing dataset of drug-target interaction.
