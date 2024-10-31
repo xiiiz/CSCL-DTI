@@ -4,7 +4,7 @@
   - [Installation](#installation)
   - [Description of data files](#description-of-data-files)
   - [Usage](#Usage)
-
+  - [Citation](#citation)
 ## Overview
 CSCL-DTI employs a hybrid contrastive learning architecture to enhance representation learning for predicting DTI.
 ![HCL-DTI](https://github.com/xiiiz/HCL-DTI/assets/105473770/79776a68-9e1c-4b0c-bbc3-7a8ea358f15c)
