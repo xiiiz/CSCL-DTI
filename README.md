@@ -2,7 +2,6 @@
 ##### CSCL-DTI:predicting drug-target interaction through cross-view and self-supervised contrastive learning.
   - [Overview](#overview)
   - [Installation](#installation)
-  - [Dependencies](#dependencies)
   - [Description of data files](#description-of-data-files)
   - [Usage](#Usage)
 
