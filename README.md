@@ -16,7 +16,7 @@ We recommend to create a new environment.
 conda create -n CSCL-DTI python=3.7
 conda activate CSCL-DTI
 ```
-DeepGS is implemented based on [Pytorch](https://pytorch.org/), [RDKit](http://www.rdkit.org/docs/Install.html#how-to-install-rdkit-with-conda).
+CSCL-DTI is implemented based on [Pytorch](https://pytorch.org/), [RDKit](http://www.rdkit.org/docs/Install.html#how-to-install-rdkit-with-conda).
 ```bash
 git clone https://github.com/xiiiz/CSCL-DTI.git 
 cd CSCL-DTI
